@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>MGNC assassins have been thwarted by Jarzo counterintellignece agents!</text>
+	</texts>
+	<float name="spaceTradingBaseCost">1000000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="mgnc_13req" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_12b" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_11b" typeid="prop" />
+</properties>

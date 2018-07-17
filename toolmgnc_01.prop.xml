@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<texts name="spaceToolDescription">
+		<text>Expand Multi-Galactic News Corp</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text>Multi-Galactic News Corp currently isn't very multi-galactic- in fact, most of the stories they report are entirely one one planet. They are seeking your permission to buy another recording studio.</text>
+	</texts>
+	<key name="spaceToolImageID" groupid="ufotools~" instanceid="#0B634E74" typeid="png" />
+	<float name="spaceTradingAbundance">30</float>
+	<bool name="spaceTradingAlliesOnly">false</bool>
+	<float name="spaceTradingBaseCost">200000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop1" typeid="prop" />
+	</keys>
+	<float name="spaceTradingChance">5</float>
+	<float name="spaceTradingChanceBard">0</float>
+	<float name="spaceTradingChanceDiplomat">0</float>
+	<float name="spaceTradingChanceEcologist">0</float>
+	<float name="spaceTradingChanceGrob">0</float>
+	<float name="spaceTradingChancePlayerBard">100</float>
+	<float name="spaceTradingChancePlayerDiplomat">100</float>
+	<float name="spaceTradingChancePlayerEcologist">100</float>
+	<float name="spaceTradingChancePlayerScientist">100</float>
+	<float name="spaceTradingChancePlayerShaman">100</float>
+	<float name="spaceTradingChancePlayerTrader">100</float>
+	<float name="spaceTradingChancePlayerWanderer">100</float>
+	<float name="spaceTradingChancePlayerWarrior">100</float>
+	<float name="spaceTradingChancePlayerZealot">100</float>
+	<float name="spaceTradingChanceScientist">0</float>
+	<float name="spaceTradingChanceShaman">0</float>
+	<float name="spaceTradingChanceTrader">0</float>
+	<float name="spaceTradingChanceWarrior">0</float>
+	<float name="spaceTradingChanceZealot">0</float>
+	<float name="spaceTradingCostMultiplierDiplomat">1</float>
+	<float name="spaceTradingCostMultiplierTrader">0.65</float>
+	<float name="spaceTradingCostMultiplierUserCul">1</float>
+	<float name="spaceTradingCostMultiplierUserEco">1</float>
+	<float name="spaceTradingCostMultiplierUserMil">1</float>
+	<float name="spaceTradingCostMultiplierWarrior">0.5</float>
+	<float name="spaceTradingCostMultiplierZealot">0.75</float>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_01" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="placemgnc_hq" typeid="prop" />
+	<key name="spaceTradingRequiresBadge" instanceid="warmonger-1" />
+	<key name="spaceTradingRequiresBadgeOr" instanceid="colonist-2" />
+	<int32 name="spaceTradingRequiresTier">3</int32>
+	<key name="spaceTradingToolClass" instanceid="combat" />
+	<key name="spaceTradingType" instanceid="upgrade" />
+</properties>

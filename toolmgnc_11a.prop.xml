@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>Management at MGNC are getting annoyed at the lack of interesting news. Inspired by similar ideas in the past, MGNC reporters have come up with several disasters they can engineer.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">300000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop2" typeid="prop" />
+		<key instanceid="mgnc_11b" typeid="prop" />
+		<key instanceid="mgnc_12b" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_11a" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_10" typeid="prop" />
+</properties>

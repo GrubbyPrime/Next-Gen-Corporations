@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>MGNC is having a slow news day, or, more accurately, a slow news month. Nothing of any interest is happening.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">400000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_factory2" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_10" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_09" typeid="prop" />
+</properties>

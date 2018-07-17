@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>The company has hired a creative director to think of as many ways as possible to generate new stories.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">300000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop2" typeid="prop" />
+		<key instanceid="mgnc_16b" typeid="prop" />
+		<key instanceid="mgnc_17b" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_16a" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_15" typeid="prop" />
+</properties>

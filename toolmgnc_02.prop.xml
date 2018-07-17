@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>MGNC is now broadcasting news from an entire solar system. Altough interplanetary news reports are still expensive, the comapny is gaining a large popularity rating.</text>
+	</texts>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop1" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_02" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_01" typeid="prop" />
+</properties>

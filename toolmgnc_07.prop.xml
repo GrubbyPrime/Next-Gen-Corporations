@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>Newsicorp has now expanded to almost every planet owned by the ~player_species~, as well as a few others. It is particularly renowned for its weather reports.</text>
+	</texts>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_factory1" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_07" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_06" typeid="prop" />
+</properties>

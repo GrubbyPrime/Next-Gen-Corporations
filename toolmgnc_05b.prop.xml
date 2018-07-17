@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>After the fake story about the CEO of Newsicorp, it has become much less reputable and share prices have plummeted by 6.42%. This should make it easier to buy out Newsicorp.</text>
+	</texts>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop1" typeid="prop" />
+		<key instanceid="mgnc_06req" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_05b" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_04b" typeid="prop" />
+</properties>

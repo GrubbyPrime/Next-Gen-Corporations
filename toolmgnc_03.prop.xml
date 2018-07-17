@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>A rival corporation, Newsicorp, has stumbled upon a rather interesting story about a cow that got stuck up a tree. Newsicorp is denying MGNC access to the site</text>
+	</texts>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop1" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_03" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_02" typeid="prop" />
+</properties>

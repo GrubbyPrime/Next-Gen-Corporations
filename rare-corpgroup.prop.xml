@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<texts name="spaceToolDescription">
+		<text>Abducted Corporations</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text tableid="#5E6117CD" instanceid="rare-bardscrollgroup_spaceToolDetailDescription">~blank text~</text>
+	</texts>
+	<key name="spaceToolImageID" groupid="ufotools~" instanceid="#91764839" typeid="png" />
+	<float name="spaceTradingBaseCost">4500000</float>
+	<float name="spaceTradingCostMultiplierBard">2</float>
+	<texts name="spaceTradingRareGroup">
+		<text tableid="#5E6117CD" instanceid="rare-bardscrollgroup_spaceTradingRareGroup">Blocks of Chance</text>
+	</texts>
+	<int32 name="spaceTradingRareGroupID">22</int32>
+	<key name="spaceTradingType" instanceid="group" />
+</properties>

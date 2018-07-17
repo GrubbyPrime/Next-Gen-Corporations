@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>Maybe MGNC's idea of assassinating the Jarzo emporor was a bit too extreme. Reporters have vowed to engineer more sensible stories, such as a power failure.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">300000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop2" typeid="prop" />
+		<key instanceid="mgnc_13b" typeid="prop" />
+		<key instanceid="mgnc_14b" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_13a" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_13req" typeid="prop" />
+</properties>

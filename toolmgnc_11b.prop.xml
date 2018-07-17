@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDescription">
+		<text>MGNC: Assassinate Jarzo Emporor</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text>Assasinating the Emporor of the Jarzo Empire will create publicity for MGNC and reduce maintenance costs.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">50000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop2" typeid="prop" />
+		<key instanceid="mgnc_11a" typeid="prop" />
+		<key instanceid="mgnc_12a" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_11b" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_10" typeid="prop" />
+</properties>

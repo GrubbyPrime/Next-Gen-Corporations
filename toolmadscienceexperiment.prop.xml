@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<texts name="spaceToolDescription">
+		<text>Super-Evil Modding Experiment</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text>An evil modding experiment. Cool, but useless.</text>
+	</texts>
+	<key name="spaceToolImageID" groupid="ufotools~" instanceid="#193DF54E" typeid="png" />
+	<float name="spaceTradingAbundance">30</float>
+	<bool name="spaceTradingAlliesOnly">false</bool>
+	<float name="spaceTradingBaseCost">400000</float>
+	<float name="spaceTradingChance">5</float>
+	<float name="spaceTradingChanceBard">0</float>
+	<float name="spaceTradingChanceDiplomat">0</float>
+	<float name="spaceTradingChanceEcologist">0</float>
+	<float name="spaceTradingChanceGrob">0</float>
+	<float name="spaceTradingChancePlayerBard">0</float>
+	<float name="spaceTradingChancePlayerDiplomat">0</float>
+	<float name="spaceTradingChancePlayerEcologist">0</float>
+	<float name="spaceTradingChancePlayerScientist">0</float>
+	<float name="spaceTradingChancePlayerShaman">0</float>
+	<float name="spaceTradingChancePlayerTrader">0</float>
+	<float name="spaceTradingChancePlayerWanderer">0</float>
+	<float name="spaceTradingChancePlayerWarrior">0</float>
+	<float name="spaceTradingChancePlayerZealot">0</float>
+	<float name="spaceTradingChanceScientist">0</float>
+	<float name="spaceTradingChanceShaman">0</float>
+	<float name="spaceTradingChanceTrader">0</float>
+	<float name="spaceTradingChanceWarrior">0</float>
+	<float name="spaceTradingChanceZealot">0</float>
+	<float name="spaceTradingCostMultiplierDiplomat">1</float>
+	<float name="spaceTradingCostMultiplierTrader">0.65</float>
+	<float name="spaceTradingCostMultiplierUserCul">1</float>
+	<float name="spaceTradingCostMultiplierUserEco">1</float>
+	<float name="spaceTradingCostMultiplierUserMil">1</float>
+	<float name="spaceTradingCostMultiplierWarrior">0.5</float>
+	<float name="spaceTradingCostMultiplierZealot">0.75</float>
+	<key name="spaceTradingExchangeFor" instanceid="madscienceexperiment" typeid="prop" />
+	<key name="spaceTradingRequiresBadge" instanceid="warmonger-1" />
+	<key name="spaceTradingRequiresBadgeOr" instanceid="colonist-2" />
+	<int32 name="spaceTradingRequiresTier">3</int32>
+	<key name="spaceTradingToolClass" instanceid="combat" />
+	<key name="spaceTradingType" instanceid="upgrade" />
+</properties>

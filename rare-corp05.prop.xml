@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="inventoryItemArtifactModel" instanceid="secuspore" />
+	<float name="inventoryItemArtifactNormalScale">1</float>
+	<float name="inventoryItemArtifactPlumpScale">1</float>
+	<key name="inventoryItemExtraEffect" instanceid="#0BBD41EE" />
+	<texts name="spaceToolDescription">
+		<text>SecuSpore</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text>A corporation that deals with planetary protection tools and was responsible for the very first Uber Turret.</text>
+	</texts>
+	<key name="spaceToolImageID" groupid="ufotools~" instanceid="#91764839" typeid="png" />
+	<key name="spaceToolThumbnailID" groupid="ufotools~" instanceid="secuspore" typeid="png" />
+	<float name="spaceTradingAbundance">1</float>
+	<float name="spaceTradingBaseCost">100000</float>
+	<float name="spaceTradingChance">0.01</float>
+	<int32 name="spaceTradingRareCount">10</int32>
+	<texts name="spaceTradingRareGroup">
+		<text>Rival Corporations</text>
+	</texts>
+	<int32 name="spaceTradingRareGroupID">22</int32>
+	<key name="spaceTradingType" instanceid="rare" />
+	<float name="#8B275B8D">5</float>
+</properties>

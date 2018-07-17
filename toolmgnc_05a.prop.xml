@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>The company now has reporters stationed on ten different planets.</text>
+	</texts>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_factory1" typeid="prop" />
+		<key instanceid="mgnc_06req" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_05a" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_04a" typeid="prop" />
+</properties>

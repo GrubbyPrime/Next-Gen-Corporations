@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDescription">
+		<text>MGNC: loot national armory</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text>This will cause an MGNC spy to loot the national armory of the ~player_species~. Beware, though, as the armory is very heavily guarded.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">20000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop2" typeid="prop" />
+		<key instanceid="mgnc_16a" typeid="prop" />
+		<key instanceid="mgnc_17a" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_16b" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_01" typeid="prop" />
+</properties>

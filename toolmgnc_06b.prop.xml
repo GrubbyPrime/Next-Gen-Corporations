@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDescription">
+		<text>Invent Story about Newsicorp CEO</text>
+	</texts>
+	<texts name="spaceToolDetailDescription">
+		<text>Buying this causes MGNC to create a fake story about the CEO of Newsicorp having an intimate love affair with a sheep</text>
+	</texts>
+	<float name="spaceTradingBaseCost">80000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop1" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_06" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_06req" typeid="prop" />
+</properties>

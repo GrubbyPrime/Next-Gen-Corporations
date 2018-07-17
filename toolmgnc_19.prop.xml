@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<key name="parent" groupid="spacetrading~" instanceid="toolmgnc_01" typeid="prop" />
+	<texts name="spaceToolDetailDescription">
+		<text>MGNC is now widely regarded as the definitive news source for the entire galaxy. Although the comapny is as famous as it will get, you can still buy more news studios.</text>
+	</texts>
+	<float name="spaceTradingBaseCost">200000</float>
+	<keys name="spaceTradingBonusTool">
+		<key instanceid="placemgnc_shop2" typeid="prop" />
+		<key instanceid="placemgnc_factory2" typeid="prop" />
+	</keys>
+	<key name="spaceTradingExchangeFor" instanceid="mgnc_19" typeid="prop" />
+	<key name="spaceTradingRequires" instanceid="mgnc_18" typeid="prop" />
+</properties>
